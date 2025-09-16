@@ -21,7 +21,7 @@
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("Amazon-Logo.jpg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -145,12 +145,13 @@ span{
 }
 
 .hero-section{
-    background-image: url(hero_image.jpg);
+    background-image: url("hero_section.jpeg");
     height: 350px;
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    padding-bottom: 30px;
 }
 
 .heromsg{
@@ -251,7 +252,7 @@ ul{
 
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("Amazon-Logo.jpg");
     background-size: cover;
     height: 50px;
     width: 100px;
